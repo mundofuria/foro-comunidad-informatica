@@ -1,0 +1,482 @@
+{
+  "evento": {
+    "nombre": "Foro de la Comunidad Informática",
+    "lema": "Conectados para generar impacto",
+    "fecha": "Sábado 28 de noviembre de 2026",
+    "desde": "9:00",
+    "sede": "Cero + Infinito",
+    "sedeInst": "FCEyN, UBA",
+    "sedeLugar": "Ciudad Universitaria",
+    "direccion": "Av. Intendente Güiraldes 2160, CABA",
+    "transporte": "Colectivos que llegan a Ciudad Universitaria y tren Belgrano Norte, estación Ciudad Universitaria",
+    "sitio": "foco.informaticos.ar",
+    "organiza": "Un espacio de la AGC"
+  },
+  "agenda": [
+    [
+      "9:00",
+      "Acreditación y café"
+    ],
+    [
+      "10:00",
+      "Charlas y talleres"
+    ],
+    [
+      "13:00",
+      "Almuerzo"
+    ],
+    [
+      "14:00",
+      "Conversatorios"
+    ],
+    [
+      "16:00",
+      "Café"
+    ],
+    [
+      "17:00",
+      "Panel de cierre",
+      "Hall central"
+    ]
+  ],
+  "ejes": [
+    [
+      "Industria IT y desarrollo productivo",
+      "¿Qué políticas necesitamos para que la informática genere más desarrollo y mejor empleo?",
+      "Industria IT y desarrollo productivo"
+    ],
+    [
+      "Trabajo informático en tiempos de inteligencia artificial",
+      "¿La inteligencia artificial viene a reemplazar trabajadores y aumentar la productividad?",
+      "Trabajo informático en tiempos de inteligencia artificial"
+    ],
+    [
+      "Soberanía tecnológica y desarrollo nacional",
+      "¿Qué capacidades tecnológicas necesita la Argentina para decidir su propio futuro?",
+      "Soberanía tecnológica y desarrollo nacional"
+    ],
+    [
+      "Ciberseguridad y ciberdefensa: proteger nuestras capacidades estratégicas",
+      "¿Cómo protegemos nuestras infraestructuras críticas con capacidades propias?",
+      "Ciberseguridad y ciberdefensa"
+    ],
+    [
+      "Educación y formación para el desarrollo de nuevos perfiles profesionales",
+      "¿Cómo trazamos carreras sostenibles en una industria que cambia todo el tiempo?",
+      "Educación y formación"
+    ],
+    [
+      "Datos personales: derechos, privacidad y responsabilidad",
+      "¿Cómo cuidamos los derechos de las personas sin frenar el desarrollo tecnológico?",
+      "Datos personales"
+    ]
+  ],
+  "conversatorios": [
+    [
+      [
+        "Gabriel Baum",
+        "Miembro del Consejo Asesor del LITAT"
+      ],
+      [
+        "Fernando Peirano",
+        "Economista, profesor e investigador de la UNQ"
+      ],
+      [
+        "Ariel Sujarchuk",
+        "Presidente del Consejo Provincial de la Economía del Conocimiento (COPEC)"
+      ],
+      [
+        "Jorge Payró",
+        "Gerente Nacional para Argentina y Director Senior para la región SOLA en Red Hat"
+      ]
+    ],
+    [
+      [
+        "Milagros Miceli",
+        "Codirectora del LITAT"
+      ],
+      [
+        "Manuel Alonso",
+        "Secretario Gremial, de Organización e Interior de AGC"
+      ],
+      [
+        "Mariano Zukerfeld",
+        "Investigador principal del CONICET"
+      ],
+      [
+        "Vanesa Núñez",
+        "Secretaría de Innovación y Futuro del Trabajo de la CGT"
+      ]
+    ],
+    [
+      [
+        "Luis Papagni",
+        "Presidente del Consejo Asesor del LITAT"
+      ],
+      [
+        "Francisco Capurro Robles",
+        "Decano del Instituto de Tecnología y Producción de la UNDelta"
+      ],
+      [
+        "Sebastián Uchitel",
+        "Investigador superior del CONICET"
+      ],
+      [
+        "Ana Carina Rodríguez",
+        "Subsecretaria de Innovación de Escobar"
+      ],
+      [
+        "Antonio Montagna",
+        "Miembro del CIDISP"
+      ]
+    ],
+    [
+      [
+        "Oscar Niss",
+        "Director de Seguridad Informática de la Provincia de Buenos Aires"
+      ],
+      [
+        "Javier Ntaca",
+        "Codirector del LITAT"
+      ],
+      [
+        "Marcela Pallero",
+        "Ingeniera en Sistemas de Información por la UTN"
+      ],
+      [
+        "Olga Cavalli",
+        "Cofundadora de la Escuela del Sur de Gobernanza de Internet"
+      ]
+    ],
+    [
+      [
+        "Claudio Aciti",
+        "Decano de la UNICEN"
+      ],
+      [
+        "Juan Manuel Padilla",
+        "Secretario de la Actividad de AGC"
+      ],
+      [
+        "Gustavo Cucuzza",
+        "Presidente de ADICRA"
+      ],
+      [
+        "Gustavo Gándara",
+        "Director Ejecutivo de Fundación UOCRA"
+      ],
+      [
+        "Andrés Bursztyn",
+        "Presidente del CPCI"
+      ],
+      [
+        "Flavia Quiroga",
+        "Secretaria Académica de UMET"
+      ]
+    ],
+    [
+      [
+        "Esteban Sargiotto",
+        "Director del Observatorio del Trabajo Informático"
+      ],
+      [
+        "Pablo Gordon",
+        "Director General de la Defensoría del Pueblo de CABA"
+      ],
+      [
+        "Tomás Pomar",
+        "Presidente de O.D.I.A."
+      ],
+      [
+        "Ivana Feldfeber",
+        "Directora y cofundadora de DataGénero"
+      ],
+      [
+        "Margarita Trovato",
+        "Abogada de Vía Libre y especialista en derechos humanos"
+      ]
+    ]
+  ],
+  "charlas": [
+    [
+      "La Trinchera",
+      "Ciberseguridad en municipios"
+    ],
+    [
+      "ODIA",
+      "Colonialismo digital: dependencia tecnológica y control democrático"
+    ],
+    [
+      "WIGAr",
+      "Desarrollo de videojuegos: ¿Qué perfiles busca hoy la industria del gaming?"
+    ],
+    [
+      "GIC · UTN FRLP",
+      "Hackeando la mente del atacante: tecnologías de engaño y respuesta en tiempo real"
+    ],
+    [
+      "Coti · Cybercirujas",
+      "Hackear, publicar, desobedecer"
+    ],
+    [
+      "Fundación Vía Libre · Cybercirujas",
+      "Inteligencia artificial a medida: por qué apostamos a modelos pequeños y qué podemos hacer hoy"
+    ],
+    [
+      "Renacer Argentina",
+      "Inteligencia Artificial, Ciberseguridad, Tecnología Nuclear y Espacial como ejes de desarrollo y soberanía para una Argentina Potencia"
+    ],
+    [
+      "Florencia Tecsoro",
+      "La belleza de lo roto"
+    ],
+    [
+      "Andres Snitcofski · Visualizar",
+      "Molestando al poder de a una dataviz por vez"
+    ],
+    [
+      "NIS",
+      "Muy lindo el dashboard… ¿y ahora qué hago con esto? Del producto tecnológico a la solución de un problema"
+    ],
+    [
+      "Zona 4",
+      "Reconstruyendo la memoria colectiva mediante ciencia de datos"
+    ],
+    [
+      "BlueSpace · Valentina Costa Gazcón",
+      "Un Palantir para gobernarlos a todos"
+    ],
+    [
+      "Cybercirujas",
+      "¿Qué es Cybercirujas? Combatiendo la obsolescencia programada desde la autogestión"
+    ],
+    [
+      "Género y diversidades",
+      "¿Quiénes construimos el futuro informático? Trabajo, tecnología y derechos desde los feminismos y las diversidades"
+    ]
+  ],
+  "comunidades": [
+    [
+      "R en Buenos Aires",
+      "r-buenos-aires.webp"
+    ],
+    [
+      "R-Ladies",
+      "r-ladies.webp"
+    ],
+    [
+      "Bluespace",
+      "bluespace.webp"
+    ],
+    [
+      "Cyber Cirujas",
+      "cybercirujas.webp"
+    ],
+    [
+      "WIGAr",
+      "wigar.svg"
+    ],
+    [
+      "BAISH",
+      null
+    ],
+    [
+      "InfoWorkers",
+      "infoworkers.webp"
+    ],
+    [
+      "Fundación Vía Libre",
+      "via-libre.svg"
+    ],
+    [
+      "ODIA",
+      "odia.svg"
+    ],
+    [
+      "DataGénero",
+      "data-genero.svg"
+    ],
+    [
+      "Géneras",
+      "generas.svg"
+    ],
+    [
+      "Fundación Sociedades Digitales",
+      "sociedades-digitales.webp"
+    ],
+    [
+      "Renacer",
+      null
+    ],
+    [
+      "NIS",
+      "nis.svg"
+    ],
+    [
+      "LAIA",
+      "laia.svg"
+    ],
+    [
+      "Zona 4",
+      "zona-4.svg"
+    ],
+    [
+      "LITAT",
+      "litat.svg"
+    ],
+    [
+      "OTI",
+      "oti.svg"
+    ],
+    [
+      "FACTTIC",
+      "facttic.svg"
+    ],
+    [
+      "CPCI",
+      "cpci.svg"
+    ],
+    [
+      "RedTI",
+      "redti.svg"
+    ],
+    [
+      "Trabajadores Informáticos",
+      "comunidad-ti.svg"
+    ],
+    [
+      "IDEP Informática",
+      "idep.webp"
+    ],
+    [
+      "ADICRA",
+      "adicra.webp"
+    ],
+    [
+      "CEFCE",
+      null
+    ],
+    [
+      "CE ECyT · UNSAM",
+      null
+    ],
+    [
+      "CE FAMAF",
+      null
+    ],
+    [
+      "La Fuente",
+      null
+    ],
+    [
+      "GIC · UTN FRLP",
+      "gic-utn-frlp.webp"
+    ]
+  ],
+  "fotos": {
+    "Gabriel Baum": [
+      "https://foco.informaticos.ar/wp-content/uploads/2026/11/baumm.jpg",
+      "https://foco.informaticos.ar/wp-content/uploads/2026/11/baumm-200x300.jpg"
+    ],
+    "Fernando Peirano": [
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/peirano.jpeg",
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/peirano-200x300.jpeg"
+    ],
+    "Ariel Sujarchuk": [
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/Ariel-Sujarchuk.jpeg",
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/Ariel-Sujarchuk-300x300.jpeg"
+    ],
+    "Jorge Payró": [
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/Jorge-Payro.jpeg",
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/Jorge-Payro-300x300.jpeg"
+    ],
+    "Milagros Miceli": [
+      "https://foco.informaticos.ar/wp-content/uploads/2026/11/miceli.jpg",
+      "https://foco.informaticos.ar/wp-content/uploads/2026/11/miceli-200x300.jpg"
+    ],
+    "Manuel Alonso": [
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/manu_alonso.png",
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/manu_alonso-300x292.png"
+    ],
+    "Mariano Zukerfeld": [
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/Zukerfeld.jpeg",
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/Zukerfeld-200x300.jpeg"
+    ],
+    "Vanesa Núñez": [
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/Vanesa-Nunez.jpg",
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/Vanesa-Nunez-300x200.jpg"
+    ],
+    "Luis Papagni": [
+      "https://foco.informaticos.ar/wp-content/uploads/2026/11/papagni.webp",
+      "https://foco.informaticos.ar/wp-content/uploads/2026/11/papagni-200x300.webp"
+    ],
+    "Francisco Capurro Robles": [
+      "https://foco.informaticos.ar/wp-content/uploads/2026/09/capurro.jpg",
+      "https://foco.informaticos.ar/wp-content/uploads/2026/09/capurro-200x300.jpg"
+    ],
+    "Sebastián Uchitel": [
+      "https://foco.informaticos.ar/wp-content/uploads/2026/09/Sebastian-Uchitel.jpg",
+      "https://foco.informaticos.ar/wp-content/uploads/2026/09/Sebastian-Uchitel-300x300.jpg"
+    ],
+    "Ana Carina Rodríguez": [
+      "https://foco.informaticos.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-11-17-at-16.43.21.jpeg",
+      "https://foco.informaticos.ar/wp-content/uploads/2026/09/WhatsApp-Image-2026-11-17-at-16.43.21-169x300.jpeg"
+    ],
+    "Antonio Montagna": [
+      "https://foco.informaticos.ar/wp-content/uploads/2026/09/montagna-antonio.jpeg",
+      "https://foco.informaticos.ar/wp-content/uploads/2026/09/montagna-antonio-300x300.jpeg"
+    ],
+    "Oscar Niss": [
+      "https://foco.informaticos.ar/wp-content/themes/foco-foro-theme/assets/img/expositores/niss.webp"
+    ],
+    "Javier Ntaca": [
+      "https://foco.informaticos.ar/wp-content/themes/foco-foro-theme/assets/img/expositores/ntaca.webp"
+    ],
+    "Marcela Pallero": [
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/Marcela-Pallero.jpeg",
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/Marcela-Pallero-270x300.jpeg"
+    ],
+    "Olga Cavalli": [
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/Olga-Cavalli.jpeg",
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/Olga-Cavalli-300x225.jpeg"
+    ],
+    "Claudio Aciti": [
+      "https://foco.informaticos.ar/wp-content/themes/foco-foro-theme/assets/img/expositores/aciti.webp"
+    ],
+    "Juan Manuel Padilla": [
+      "https://foco.informaticos.ar/wp-content/themes/foco-foro-theme/assets/img/expositores/padilla.webp"
+    ],
+    "Gustavo Cucuzza": [
+      "https://foco.informaticos.ar/wp-content/uploads/2026/09/Gustavo-Cucuzza.jpg",
+      "https://foco.informaticos.ar/wp-content/uploads/2026/09/Gustavo-Cucuzza-200x300.jpg"
+    ],
+    "Gustavo Gándara": [
+      "https://foco.informaticos.ar/wp-content/uploads/2026/09/Gustavo-Gandara.jpg",
+      "https://foco.informaticos.ar/wp-content/uploads/2026/09/Gustavo-Gandara-251x300.jpg"
+    ],
+    "Andrés Bursztyn": [
+      "https://foco.informaticos.ar/wp-content/themes/foco-foro-theme/assets/img/expositores/bursztyn.webp"
+    ],
+    "Flavia Quiroga": [
+      "https://foco.informaticos.ar/wp-content/themes/foco-foro-theme/assets/img/expositores/quiroga.webp"
+    ],
+    "Esteban Sargiotto": [
+      "https://foco.informaticos.ar/wp-content/themes/foco-foro-theme/assets/img/expositores/sargiotto.webp"
+    ],
+    "Pablo Gordon": [
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/Pablo-Gordon.jpg",
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/Pablo-Gordon-300x157.jpg"
+    ],
+    "Tomás Pomar": [
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/Tomas-Pomar.jpg",
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/Tomas-Pomar-300x225.jpg"
+    ],
+    "Ivana Feldfeber": [
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/Ivana-Feldfeber.jpeg"
+    ],
+    "Margarita Trovato": [
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/Margarita-Trovato.jpeg",
+      "https://foco.informaticos.ar/wp-content/uploads/2026/10/Margarita-Trovato-300x287.jpeg"
+    ]
+  }
+}
