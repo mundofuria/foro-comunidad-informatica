@@ -1,0 +1,740 @@
+[
+ {
+  "i": 0,
+  "nombre": "01 Bienvenida",
+  "momento": "apertura",
+  "dur": 0,
+  "internet": false,
+  "texto": "BIENVENIDAS Y BIENVENIDOS Foro de la Comunidad Informática Conectados para generar impacto 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/001.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 1,
+  "nombre": "02 Sede",
+  "momento": "apertura",
+  "dur": 0,
+  "internet": false,
+  "texto": "EL LUGAR Cero + Infinito FCEyN, UBA · Ciudad Universitaria Av. Intendente Güiraldes 2160, CABA 17:00 · PANEL DE CIERRE EN EL HALL CENTRAL SÁB 28 NOV 2026",
+  "mini": "panel/mini/002.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 2,
+  "nombre": "03 Agenda del día",
+  "momento": "agenda",
+  "dur": 0,
+  "internet": false,
+  "texto": "AGENDA DEL DÍA SÁB 28 NOV Así transcurre el día 9:00 Acreditación y café 10:00 Charlas y talleres 13:00 Almuerzo 14:00 Conversatorios 16:00 Café 17:00 Panel de cierre HALL CENTRAL 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/003.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 3,
+  "nombre": "04 Bloque 9:00",
+  "momento": "agenda",
+  "dur": 0,
+  "internet": false,
+  "texto": "AHORA · 9:00 01 / 06 Acreditación y café A las 10:00 empiezan las charlas y talleres de las comunidades. 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/004.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 4,
+  "nombre": "05 Bloque 10:00",
+  "momento": "agenda",
+  "dur": 0,
+  "internet": false,
+  "texto": "AHORA · 10:00 02 / 06 Charlas y talleres Las comunidades cuentan su trabajo, en paralelo. Elegí a qué actividad asistir. 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/005.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 5,
+  "nombre": "06 Bloque 13:00",
+  "momento": "agenda",
+  "dur": 0,
+  "internet": false,
+  "texto": "PAUSA · 13:00 03 / 06 Almuerzo Volvemos a las 14:00 con los conversatorios. 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/006.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 6,
+  "nombre": "07 Bloque 14:00",
+  "momento": "agenda",
+  "dur": 0,
+  "internet": false,
+  "texto": "AHORA · 14:00 04 / 06 Conversatorios Referentes del sector debaten los seis ejes de la agenda. 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/007.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 7,
+  "nombre": "08 Bloque 16:00",
+  "momento": "agenda",
+  "dur": 0,
+  "internet": false,
+  "texto": "PAUSA · 16:00 05 / 06 Café A las 17:00, panel de cierre en el hall central. 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/008.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 8,
+  "nombre": "09 Bloque 17:00",
+  "momento": "agenda",
+  "dur": 0,
+  "internet": false,
+  "texto": "HALL CENTRAL · 17:00 06 / 06 Panel de cierre Una agenda común para el desarrollo tecnológico nacional. 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/009.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 9,
+  "nombre": "10 Aviso Cuidemos el lugar",
+  "momento": "avisos",
+  "dur": 0,
+  "internet": false,
+  "texto": "ENTRE TODAS Y TODOS Cuidemos este lugar Hoy la Facultad nos abre sus puertas. Sin comida ni bebida en aulas y auditorios Los residuos, siempre en los cestos Dejemos cada espacio como lo encontramos Gracias a la Facultad de Ciencias Exactas y Naturales de la UBA por recibirnos 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/010.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 10,
+  "nombre": "11 Aviso Fotos @informaticos.ar",
+  "momento": "avisos",
+  "dur": 0,
+  "internet": false,
+  "texto": "COMPARTÍ EL FORO Sacá fotos, subilas y mencionanos @informaticos.ar En Instagram, en tus historias y publicaciones. ESCANEÁ Y SEGUINOS 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/011.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 11,
+  "nombre": "12 Instagram últimas publicaciones",
+  "momento": "avisos",
+  "dur": 0,
+  "internet": true,
+  "texto": "EN INSTAGRAM @informaticos.ar Lo último en nuestras redes SEGUINOS @informaticos.ar 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/012.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 12,
+  "nombre": "13 Grilla charlas 01",
+  "momento": "charlas",
+  "dur": 0,
+  "internet": false,
+  "texto": "GRILLA DE CHARLAS Y TALLERES 01 / 02 Auditorio 1401 10:00 – 11:00 · WIGAr Desarrollo de videojuegos: ¿Qué perfiles busca hoy la industria del gaming? 11:00 – 11:45 · ODIA Colonialismo digital: dependencia tecnológica y control democrático 11:45 – 12:30 · GIC · UTN FRLP Hackeando la mente del atacante: tecnologías de engaño y respuesta en tiempo real 12:30 – 13:00 · La Trinchera Ciberseguridad en municipios Auditorio 1402 10:00 – 11:30 · Zona 4 Reconstruyendo la memoria colectiva mediante ciencia de datos 11:30 – 12:15 · Andres Snitcofski / Visualizar Molestando al poder de a una dataviz por vez 12:15 – 12:45 · NIS Muy lindo el dashboard… ¿y ahora qué hago con esto? Del producto tecnológico a la solución de un problema 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/013.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 13,
+  "nombre": "14 Grilla charlas 02",
+  "momento": "charlas",
+  "dur": 0,
+  "internet": false,
+  "texto": "GRILLA DE CHARLAS Y TALLERES 02 / 02 Auditorio 1403 10:00 – 11:00 · Renacer Argentina Inteligencia Artificial, Ciberseguridad, Tecnología Nuclear y Espacial como ejes de desarrollo y soberanía para una Argentina Potencia 11:00 – 12:00 · Género y diversidades ¿Quiénes construimos el futuro informático? Trabajo, tecnología y derechos desde los feminismos y las diversidades 12:00 – 12:45 · BlueSpace / Valentina Costa Gazcón Un Palantir para gobernarlos a todos Aula 1309 10:00 – 12:00 · Florencia Tecsoro La belleza de lo roto 12:00 – 12:45 · Tecnocenolab La guerra security vs. safety y los riesgos del campo de la información 12:45 – 13:15 · Cybercirujas ¿Qué es Cybercirujas? Combatiendo la obsolescencia programada desde la autogestión 13:30 – 16:30 · Coti / Cyber Cirujas Hackear, publicar, desobedecer 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/014.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 14,
+  "nombre": "15 Charla 01 WIGAr",
+  "momento": "charlas",
+  "dur": 0,
+  "internet": false,
+  "texto": "CHARLAS Y TALLERES DE COMUNIDADES 01 / 14 10:00 – 11:00 Auditorio 1401 Desarrollo de videojuegos: ¿Qué perfiles busca hoy la industria del gaming? WIGAr 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/015.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 15,
+  "nombre": "16 Charla 02 Renacer Argentina",
+  "momento": "charlas",
+  "dur": 0,
+  "internet": false,
+  "texto": "CHARLAS Y TALLERES DE COMUNIDADES 02 / 14 10:00 – 11:00 Auditorio 1403 Inteligencia Artificial, Ciberseguridad, Tecnología Nuclear y Espacial como ejes de desarrollo y soberanía para una Argentina Potencia Renacer Argentina 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/016.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 16,
+  "nombre": "17 Charla 03 Zona 4",
+  "momento": "charlas",
+  "dur": 0,
+  "internet": false,
+  "texto": "CHARLAS Y TALLERES DE COMUNIDADES 03 / 14 10:00 – 11:30 Auditorio 1402 Reconstruyendo la memoria colectiva mediante ciencia de datos Zona 4 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/017.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 17,
+  "nombre": "18 Charla 04 Florencia Tecsoro",
+  "momento": "charlas",
+  "dur": 0,
+  "internet": false,
+  "texto": "CHARLAS Y TALLERES DE COMUNIDADES 04 / 14 10:00 – 12:00 Aula 1309 La belleza de lo roto Florencia Tecsoro 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/018.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 18,
+  "nombre": "19 Charla 05 ODIA",
+  "momento": "charlas",
+  "dur": 0,
+  "internet": false,
+  "texto": "CHARLAS Y TALLERES DE COMUNIDADES 05 / 14 11:00 – 11:45 Auditorio 1401 Colonialismo digital: dependencia tecnológica y control democrático ODIA 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/019.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 19,
+  "nombre": "20 Charla 06 Género y diversidades",
+  "momento": "charlas",
+  "dur": 0,
+  "internet": false,
+  "texto": "CHARLAS Y TALLERES DE COMUNIDADES 06 / 14 11:00 – 12:00 Auditorio 1403 ¿Quiénes construimos el futuro informático? Trabajo, tecnología y derechos desde los feminismos y las diversidades Género y diversidades 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/020.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 20,
+  "nombre": "21 Charla 07 Andres Snitcofski / Visualizar",
+  "momento": "charlas",
+  "dur": 0,
+  "internet": false,
+  "texto": "CHARLAS Y TALLERES DE COMUNIDADES 07 / 14 11:30 – 12:15 Auditorio 1402 Molestando al poder de a una dataviz por vez Andres Snitcofski / Visualizar 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/021.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 21,
+  "nombre": "22 Charla 08 GIC · UTN FRLP",
+  "momento": "charlas",
+  "dur": 0,
+  "internet": false,
+  "texto": "CHARLAS Y TALLERES DE COMUNIDADES 08 / 14 11:45 – 12:30 Auditorio 1401 Hackeando la mente del atacante: tecnologías de engaño y respuesta en tiempo real GIC · UTN FRLP 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/022.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 22,
+  "nombre": "23 Charla 09 BlueSpace / Valentina Costa Gazcón",
+  "momento": "charlas",
+  "dur": 0,
+  "internet": false,
+  "texto": "CHARLAS Y TALLERES DE COMUNIDADES 09 / 14 12:00 – 12:45 Auditorio 1403 Un Palantir para gobernarlos a todos BlueSpace / Valentina Costa Gazcón 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/023.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 23,
+  "nombre": "24 Charla 10 Tecnocenolab",
+  "momento": "charlas",
+  "dur": 0,
+  "internet": false,
+  "texto": "CHARLAS Y TALLERES DE COMUNIDADES 10 / 14 12:00 – 12:45 Aula 1309 La guerra security vs. safety y los riesgos del campo de la información Tecnocenolab 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/024.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 24,
+  "nombre": "25 Charla 11 NIS",
+  "momento": "charlas",
+  "dur": 0,
+  "internet": false,
+  "texto": "CHARLAS Y TALLERES DE COMUNIDADES 11 / 14 12:15 – 12:45 Auditorio 1402 Muy lindo el dashboard… ¿y ahora qué hago con esto? Del producto tecnológico a la solución de un problema NIS 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/025.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 25,
+  "nombre": "26 Charla 12 La Trinchera",
+  "momento": "charlas",
+  "dur": 0,
+  "internet": false,
+  "texto": "CHARLAS Y TALLERES DE COMUNIDADES 12 / 14 12:30 – 13:00 Auditorio 1401 Ciberseguridad en municipios La Trinchera 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/026.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 26,
+  "nombre": "27 Charla 13 Cybercirujas",
+  "momento": "charlas",
+  "dur": 0,
+  "internet": false,
+  "texto": "CHARLAS Y TALLERES DE COMUNIDADES 13 / 14 12:45 – 13:15 Aula 1309 ¿Qué es Cybercirujas? Combatiendo la obsolescencia programada desde la autogestión Cybercirujas 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/027.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 27,
+  "nombre": "28 Charla 14 Coti / Cyber Cirujas",
+  "momento": "charlas",
+  "dur": 0,
+  "internet": false,
+  "texto": "CHARLAS Y TALLERES DE COMUNIDADES 14 / 14 13:30 – 16:30 Aula 1309 Hackear, publicar, desobedecer Coti / Cyber Cirujas 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/028.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 28,
+  "nombre": "29 Grilla conversatorios",
+  "momento": "conversatorios",
+  "dur": 0,
+  "internet": false,
+  "texto": "CONVERSATORIOS · TARDE 6 EJES 14:00 – 15:00 SALA 1401 · EJE 04 Ciberseguridad y ciberdefensa: proteger nuestras capacidades estratégicas SALA 1402 · EJE 01 Industria IT y desarrollo productivo SALA 1403 · EJE 05 Educación y formación para el desarrollo de nuevos perfiles profesionales 15:00 – 16:00 SALA 1401 · EJE 03 Soberanía tecnológica y desarrollo nacional SALA 1402 · EJE 02 Trabajo informático en tiempos de inteligencia artificial SALA 1403 · EJE 06 Datos personales: derechos, privacidad y responsabilidad 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/029.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 29,
+  "nombre": "30 Seis ejes",
+  "momento": "conversatorios",
+  "dur": 0,
+  "internet": false,
+  "texto": "EJES DE QUÉ VAMOS A HABLAR Seis ejes de debate EJE 01 Industria IT y desarrollo productivo EJE 02 Trabajo informático en tiempos de inteligencia artificial EJE 03 Soberanía tecnológica y desarrollo nacional EJE 04 Ciberseguridad y ciberdefensa: proteger nuestras capacidades estratégicas EJE 05 Educación y formación para el desarrollo de nuevos perfiles profesionales EJE 06 Datos personales: derechos, privacidad y responsabilidad 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/030.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 30,
+  "nombre": "31 Eje 01",
+  "momento": "conversatorios",
+  "dur": 0,
+  "internet": false,
+  "texto": "EJE 01 01 / 06 01 Industria IT y desarrollo productivo ¿Qué políticas necesitamos para que la informática genere más desarrollo y mejor empleo? 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/031.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 31,
+  "nombre": "32 Eje 02",
+  "momento": "conversatorios",
+  "dur": 0,
+  "internet": false,
+  "texto": "EJE 02 02 / 06 02 Trabajo informático en tiempos de inteligencia artificial ¿La inteligencia artificial viene a reemplazar trabajadores y aumentar la productividad? 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/032.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 32,
+  "nombre": "33 Eje 03",
+  "momento": "conversatorios",
+  "dur": 0,
+  "internet": false,
+  "texto": "EJE 03 03 / 06 03 Soberanía tecnológica y desarrollo nacional ¿Qué capacidades tecnológicas necesita la Argentina para decidir su propio futuro? 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/033.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 33,
+  "nombre": "34 Eje 04",
+  "momento": "conversatorios",
+  "dur": 0,
+  "internet": false,
+  "texto": "EJE 04 04 / 06 04 Ciberseguridad y ciberdefensa: proteger nuestras capacidades estratégicas ¿Cómo protegemos nuestras infraestructuras críticas con capacidades propias? 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/034.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 34,
+  "nombre": "35 Eje 05",
+  "momento": "conversatorios",
+  "dur": 0,
+  "internet": false,
+  "texto": "EJE 05 05 / 06 05 Educación y formación para el desarrollo de nuevos perfiles profesionales ¿Cómo trazamos carreras sostenibles en una industria que cambia todo el tiempo? 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/035.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 35,
+  "nombre": "36 Eje 06",
+  "momento": "conversatorios",
+  "dur": 0,
+  "internet": false,
+  "texto": "EJE 06 06 / 06 06 Datos personales: derechos, privacidad y responsabilidad ¿Cómo cuidamos los derechos de las personas sin frenar el desarrollo tecnológico? 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/036.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 36,
+  "nombre": "37 Conversatorio 01",
+  "momento": "conversatorios",
+  "dur": 0,
+  "internet": false,
+  "texto": "CONVERSATORIO · EJE 01 14:00 – 15:00 · SALA 1402 Industria IT y desarrollo productivo GB Gabriel Baum Miembro del Consejo Asesor del LITAT FP Fernando Peirano Economista, profesor e investigador de la UNQ AS Ariel Sujarchuk Presidente del Consejo Provincial de la Economía del Conocimiento (COPEC) JP Jorge Payró Gerente Nacional para Argentina y Director Senior para la región SOLA en Red Hat NM Dra. Nacira Muñoz Especialista en políticas de CTI y desarrollo productivo. INTA y docente de la UNC VR Verónica Robert Directora de la Maestría en Desarrollo Económico de la Escuela IDAES-UNSAM 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/037.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 37,
+  "nombre": "38 Conversatorio 02",
+  "momento": "conversatorios",
+  "dur": 0,
+  "internet": false,
+  "texto": "CONVERSATORIO · EJE 02 15:00 – 16:00 · SALA 1402 Trabajo informático en tiempos de inteligencia artificial MM Milagros Miceli Codirectora del LITAT MA Manuel Alonso Secretario Gremial, de Organización e Interior de AGC MZ Mariano Zukerfeld Investigador principal del CONICET VN Vanesa Núñez Secretaría de Innovación y Futuro del Trabajo de la CGT LA Dra. Lilia Alonso Asesora del MTPBA 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/038.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 38,
+  "nombre": "39 Conversatorio 03",
+  "momento": "conversatorios",
+  "dur": 0,
+  "internet": false,
+  "texto": "CONVERSATORIO · EJE 03 15:00 – 16:00 · SALA 1401 Soberanía tecnológica y desarrollo nacional LP Luis Papagni Presidente del Consejo Asesor del LITAT FC Francisco Capurro Robles Decano del Instituto de Tecnología y Producción de la UNDelta SU Sebastián Uchitel Investigador superior del CONICET AC Ana Carina Rodríguez Subsecretaria de Innovación de Escobar AM Antonio Montagna Miembro del CIDISP RE Ramiro Escobar Investigador del CIDISP 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/039.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 39,
+  "nombre": "40 Conversatorio 04",
+  "momento": "conversatorios",
+  "dur": 0,
+  "internet": false,
+  "texto": "CONVERSATORIO · EJE 04 14:00 – 15:00 · SALA 1401 Ciberseguridad y ciberdefensa: proteger nuestras capacidades estratégicas ON Oscar Niss Director de Seguridad Informática de la Provincia de Buenos Aires JN Javier Ntaca Codirector del LITAT MP Marcela Pallero Ingeniera en Sistemas de Información por la UTN OC Olga Cavalli Cofundadora de la Escuela del Sur de Gobernanza de Internet 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/040.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 40,
+  "nombre": "41 Conversatorio 05",
+  "momento": "conversatorios",
+  "dur": 0,
+  "internet": false,
+  "texto": "CONVERSATORIO · EJE 05 14:00 – 15:00 · SALA 1403 Educación y formación para el desarrollo de nuevos perfiles profesionales CA Claudio Aciti Decano de la UNICEN JM Juan Manuel Padilla Secretario de la Actividad de AGC GC Gustavo Cucuzza Presidente de ADICRA GG Gustavo Gándara Director Ejecutivo de Fundación UOCRA AB Andrés Bursztyn Presidente del CPCI FQ Flavia Quiroga Secretaria Académica de UMET 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/041.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 41,
+  "nombre": "42 Conversatorio 06",
+  "momento": "conversatorios",
+  "dur": 0,
+  "internet": false,
+  "texto": "CONVERSATORIO · EJE 06 15:00 – 16:00 · SALA 1403 Datos personales: derechos, privacidad y responsabilidad ES Esteban Sargiotto Director del Observatorio del Trabajo Informático PG Pablo Gordon Director General de la Defensoría del Pueblo de CABA TP Tomás Pomar Presidente de O.D.I.A. IF Ivana Feldfeber Directora y cofundadora de DataGénero MT Margarita Trovato Abogada de Vía Libre y especialista en derechos humanos 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/042.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 42,
+  "nombre": "43 Expositores 01",
+  "momento": "conversatorios",
+  "dur": 0,
+  "internet": false,
+  "texto": "EXPOSITORES · CONVERSATORIOS 14:00 – 15:00 01 / 02 GB EJE 01 Gabriel Baum FP EJE 01 Fernando Peirano AS EJE 01 Ariel Sujarchuk JP EJE 01 Jorge Payró NM EJE 01 Dra. Nacira Muñoz VR EJE 01 Verónica Robert ON EJE 04 Oscar Niss JN EJE 04 Javier Ntaca MP EJE 04 Marcela Pallero OC EJE 04 Olga Cavalli CA EJE 05 Claudio Aciti JM EJE 05 Juan Manuel Padilla GC EJE 05 Gustavo Cucuzza GG EJE 05 Gustavo Gándara AB EJE 05 Andrés Bursztyn FQ EJE 05 Flavia Quiroga 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/043.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 43,
+  "nombre": "44 Expositores 02",
+  "momento": "conversatorios",
+  "dur": 0,
+  "internet": false,
+  "texto": "EXPOSITORES · CONVERSATORIOS 15:00 – 16:00 02 / 02 MM EJE 02 Milagros Miceli MA EJE 02 Manuel Alonso MZ EJE 02 Mariano Zukerfeld VN EJE 02 Vanesa Núñez LA EJE 02 Dra. Lilia Alonso LP EJE 03 Luis Papagni FC EJE 03 Francisco Capurro Robles SU EJE 03 Sebastián Uchitel AC EJE 03 Ana Carina Rodríguez AM EJE 03 Antonio Montagna RE EJE 03 Ramiro Escobar ES EJE 06 Esteban Sargiotto PG EJE 06 Pablo Gordon TP EJE 06 Tomás Pomar IF EJE 06 Ivana Feldfeber MT EJE 06 Margarita Trovato 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/044.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 44,
+  "nombre": "45 Comunidades 01",
+  "momento": "comunidades",
+  "dur": 0,
+  "internet": false,
+  "texto": "QUIÉNES LO CONSTRUYEN 01 / 05 Comunidades técnicas y de práctica BAISH 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/045.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 45,
+  "nombre": "46 Comunidades 02",
+  "momento": "comunidades",
+  "dur": 0,
+  "internet": false,
+  "texto": "QUIÉNES LO CONSTRUYEN 02 / 05 Derechos digitales, género y sociedad 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/046.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 46,
+  "nombre": "47 Comunidades 03",
+  "momento": "comunidades",
+  "dur": 0,
+  "internet": false,
+  "texto": "QUIÉNES LO CONSTRUYEN 03 / 05 Investigación e innovación 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/047.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 47,
+  "nombre": "48 Comunidades 04",
+  "momento": "comunidades",
+  "dur": 0,
+  "internet": false,
+  "texto": "QUIÉNES LO CONSTRUYEN 04 / 05 Trabajo, cooperativas y profesión 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/048.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 48,
+  "nombre": "49 Comunidades 05",
+  "momento": "comunidades",
+  "dur": 0,
+  "internet": false,
+  "texto": "QUIÉNES LO CONSTRUYEN 05 / 05 Centros de estudiantes y agrupaciones CEFCE UNICEN CE ECyT UNSAM CE FAMAF UNC La Fuente UNLP 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/049.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 49,
+  "nombre": "50 Foto Mural de comunidades",
+  "momento": "comunidades",
+  "dur": 0,
+  "internet": false,
+  "texto": "Somos comunidad BAISH CEFCE CE ECyT · UNSAM CE FAMAF La Fuente @informaticos.ar · 28 NOV 2026 · CERO + INFINITO",
+  "mini": "panel/mini/050.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 50,
+  "nombre": "51 Foto Marco de comunidades",
+  "momento": "comunidades",
+  "dur": 0,
+  "internet": false,
+  "texto": "BAISH CEFCE CE ECyT · UNSAM CE FAMAF La Fuente Yo estuve en el Foro COMUNIDAD INFORMÁTICA · 2026 @informaticos.ar",
+  "mini": "panel/mini/051.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 51,
+  "nombre": "52 Video El Compromiso de Nuestro Trabajo",
+  "momento": "institucional",
+  "dur": 86,
+  "internet": true,
+  "texto": "NUESTRO CANAL 01 / 05 El compromiso de nuestro trabajo Trabajadores Informáticos 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/052.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 52,
+  "nombre": "53 Video Resumen 2019-2023",
+  "momento": "institucional",
+  "dur": 336,
+  "internet": true,
+  "texto": "NUESTRO CANAL 02 / 05 Resumen 2019–2023 AGC Argentina Trabajadores Informáticos 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/053.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 53,
+  "nombre": "54 Video Festejo 30 años",
+  "momento": "institucional",
+  "dur": 63,
+  "internet": true,
+  "texto": "NUESTRO CANAL 03 / 05 Festejo de nuestros 30 años Trabajadores Informáticos 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/054.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 54,
+  "nombre": "55 Video Plenario Federal AGC",
+  "momento": "institucional",
+  "dur": 76,
+  "internet": true,
+  "texto": "NUESTRO CANAL 04 / 05 Plenario Federal AGC Trabajadores Informáticos 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/055.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 55,
+  "nombre": "56 Video Somos trabajadores informáticos",
+  "momento": "institucional",
+  "dur": 87,
+  "internet": true,
+  "texto": "NUESTRO CANAL 05 / 05 Somos trabajadores informáticos Trabajadores Informáticos 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/056.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 56,
+  "nombre": "57 Sumate",
+  "momento": "institucional",
+  "dur": 0,
+  "internet": false,
+  "texto": "SUMATE Sumate al Foro de la Comunidad Informática foco.informaticos.ar ESCANEÁ EL CÓDIGO 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/057.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 57,
+  "nombre": "58 Frase 01",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "FORO DE LA COMUNIDAD INFORMÁTICA Los informáticos somos protagonistas de una transformación tecnológica sin precedentes. 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/058.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 58,
+  "nombre": "59 Frase 02",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "FORO DE LA COMUNIDAD INFORMÁTICA Pero el futuro no está escrito. 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/059.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 59,
+  "nombre": "60 Frase · Escuchar Debatir Proponer",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "FORO DE LA COMUNIDAD INFORMÁTICA 01 Escuchar MAÑANA · CHARLAS 02 Debatir TARDE · CONVERSATORIOS 03 Proponer CIERRE · PANEL 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/060.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 60,
+  "nombre": "61 Frase 04",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "FORO DE LA COMUNIDAD INFORMÁTICA Que el desarrollo tecnológico argentino esté al servicio del trabajo, la justicia social y el desarrollo nacional. 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/061.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 61,
+  "nombre": "C00 Acto de cierre · Ezequiel Tosco",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "HALL CENTRAL · 17:00 ACTO DE CIERRE Una agenda común para el desarrollo tecnológico nacional. Ezequiel Tosco Secretario General de la AGC 28 NOV 2026 · CERO + INFINITO · FCEyN, UBA",
+  "mini": "panel/mini/062.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 62,
+  "nombre": "C01L En comunidad somos más fuertes",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "28 NOV 2026 · CERO + INFINITO · FCEyN, UBA En comunidad somos más fuertes",
+  "mini": "panel/mini/063.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 63,
+  "nombre": "C01T En comunidad somos más fuertes",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "28 NOV 2026 · CERO + INFINITO · FCEyN, UBA En comunidad somos más fuertes",
+  "mini": "panel/mini/064.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 64,
+  "nombre": "C02L Conectados para generar impacto",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "28 NOV 2026 · CERO + INFINITO · FCEyN, UBA Conectados para generar impacto",
+  "mini": "panel/mini/065.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 65,
+  "nombre": "C02T Conectados para generar impacto",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "28 NOV 2026 · CERO + INFINITO · FCEyN, UBA Conectados para generar impacto",
+  "mini": "panel/mini/066.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 66,
+  "nombre": "C03L Debemos comenzar a pensar en grande",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "28 NOV 2026 · CERO + INFINITO · FCEyN, UBA Debemos comenzar a pensar en grande",
+  "mini": "panel/mini/067.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 67,
+  "nombre": "C03T Debemos comenzar a pensar en grande",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "28 NOV 2026 · CERO + INFINITO · FCEyN, UBA Debemos comenzar a pensar en grande",
+  "mini": "panel/mini/068.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 68,
+  "nombre": "C04L Una agenda común",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "28 NOV 2026 · CERO + INFINITO · FCEyN, UBA PANEL DE CIERRE · 17:00 · HALL CENTRAL Una agenda común para el desarrollo tecnológico nacional",
+  "mini": "panel/mini/069.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 69,
+  "nombre": "C04T Una agenda común",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "28 NOV 2026 · CERO + INFINITO · FCEyN, UBA PANEL DE CIERRE · 17:00 · HALL CENTRAL Una agenda común para el desarrollo tecnológico nacional",
+  "mini": "panel/mini/070.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 70,
+  "nombre": "C05L Comunidades reunidas",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "28 NOV 2026 · CERO + INFINITO · FCEyN, UBA Quiénes lo construyen BAISH CEFCE CE ECyT CE FAMAF La Fuente",
+  "mini": "panel/mini/071.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 71,
+  "nombre": "C05T Comunidades reunidas",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "28 NOV 2026 · CERO + INFINITO · FCEyN, UBA Quiénes lo construyen BAISH CEFCE CE ECyT CE FAMAF La Fuente",
+  "mini": "panel/mini/072.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 72,
+  "nombre": "C06L Seis ejes, una agenda",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "28 NOV 2026 · CERO + INFINITO · FCEyN, UBA Una agenda común EJE 01 Industria IT y desarrollo productivo EJE 02 Trabajo informático en tiempos de inteligencia artificial EJE 03 Soberanía tecnológica y desarrollo nacional EJE 04 Ciberseguridad y ciberdefensa EJE 05 Educación y formación EJE 06 Datos personales",
+  "mini": "panel/mini/073.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 73,
+  "nombre": "C06T Seis ejes, una agenda",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "28 NOV 2026 · CERO + INFINITO · FCEyN, UBA Una agenda común EJE 01 Industria IT y desarrollo productivo EJE 02 Trabajo informático en tiempos de inteligencia artificial EJE 03 Soberanía tecnológica y desarrollo nacional EJE 04 Ciberseguridad y ciberdefensa EJE 05 Educación y formación EJE 06 Datos personales",
+  "mini": "panel/mini/074.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 74,
+  "nombre": "C07L El futuro no está escrito",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "28 NOV 2026 · CERO + INFINITO · FCEyN, UBA El futuro no está escrito. Lo escribimos en comunidad.",
+  "mini": "panel/mini/075.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 75,
+  "nombre": "C07T El futuro no está escrito",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "28 NOV 2026 · CERO + INFINITO · FCEyN, UBA El futuro no está escrito. Lo escribimos en comunidad.",
+  "mini": "panel/mini/076.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 76,
+  "nombre": "C08L Seguimos conectados",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "28 NOV 2026 · CERO + INFINITO · FCEyN, UBA Seguimos conectados foco.informaticos.ar",
+  "mini": "panel/mini/077.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 77,
+  "nombre": "C08T Seguimos conectados",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "28 NOV 2026 · CERO + INFINITO · FCEyN, UBA Seguimos conectados foco.informaticos.ar",
+  "mini": "panel/mini/078.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 78,
+  "nombre": "C09L Gracias",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "28 NOV 2026 · CERO + INFINITO · FCEyN, UBA Gracias por construir esto juntos",
+  "mini": "panel/mini/079.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 79,
+  "nombre": "C09T Gracias",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "28 NOV 2026 · CERO + INFINITO · FCEyN, UBA Gracias por construir esto juntos",
+  "mini": "panel/mini/080.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 80,
+  "nombre": "C10L Fondo de marca",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "28 NOV 2026 · CERO + INFINITO · FCEyN, UBA Foro de la Comunidad Informática Conectados para generar impacto",
+  "mini": "panel/mini/081.jpg?v=mwwl73l9"
+ },
+ {
+  "i": 81,
+  "nombre": "C10T Fondo de marca",
+  "momento": "cierre",
+  "dur": 0,
+  "internet": false,
+  "texto": "28 NOV 2026 · CERO + INFINITO · FCEyN, UBA Foro de la Comunidad Informática Conectados para generar impacto",
+  "mini": "panel/mini/082.jpg?v=mwwl73l9"
+ }
+]

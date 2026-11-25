@@ -1,0 +1,32 @@
+PANTALLA LED - FORO DE LA COMUNIDAD INFORMATICA
+
+ANTES DE EMPEZAR
+- Conectar la pantalla LED a la computadora y configurar Windows en "Extender"
+  (tecla Windows + P > Extender). No usar "Duplicar".
+- Usar Google Chrome o Microsoft Edge.
+
+ABRIR EL PANEL
+  Con internet:  https://mundofuria.github.io/foro-comunidad-informatica/panel.html
+  Sin internet:  doble clic en "INICIAR PANEL.bat" (esta carpeta) y no cerrar
+                 la ventana negra que aparece.
+  Si Windows muestra un aviso de seguridad al abrirlo: "Mas informacion" y
+  "Ejecutar de todas formas".
+
+PONER LA PANTALLA
+  1. En el panel, tocar "Abrir pantalla".
+  2. Arrastrar la ventana nueva a la pantalla LED.
+  3. Hacer un clic dentro de esa ventana: queda en pantalla completa.
+  4. Volver al panel. Arriba debe decir "Pantalla conectada".
+
+OPERAR
+  Un clic prepara una placa. Enter (o ENVIAR) la muestra al publico.
+  Doble clic: la envia directo.
+  Flechas: cambiar la placa preparada.
+  B: pantalla negra.   M: placa de marca.
+  "Repetir esta lista": rota las placas de la pestana elegida.
+  Mantener el panel visible mientras se repite una lista.
+
+SIN INTERNET
+  Todo funciona menos las placas de video (YouTube) y la de Instagram.
+  Para que la version web funcione sin conexion hay que haberla abierto antes
+  en esa misma computadora y esperar "Guardado para usar sin internet".
