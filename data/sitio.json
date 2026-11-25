@@ -1,0 +1,450 @@
+{
+ "charlas": [
+  {
+   "slug": "desarrollar-videojuegos-en-argentina",
+   "titulo": "Desarrollo de videojuegos: ¿Qué perfiles busca hoy la industria del gaming?",
+   "comunidad": "WIGAr",
+   "hora": "10:00 – 11:00",
+   "sala": "Auditorio 1401",
+   "imagen": "assets/web/charlas/desarrollar-videojuegos-en-argentina.jpg"
+  },
+  {
+   "slug": "zona-4-reconstruyendo-la-memoria-colectiva-mediante-ciencia-de-datos",
+   "titulo": "Reconstruyendo la memoria colectiva mediante ciencia de datos",
+   "comunidad": "Zona 4",
+   "hora": "10:00 – 11:30",
+   "sala": "Auditorio 1402",
+   "imagen": "assets/web/charlas/zona-4-reconstruyendo-la-memoria-colectiva-mediante-ciencia-.jpg"
+  },
+  {
+   "slug": "inteligencia-artificial-ciberseguridad-ejes-de-desarrollo",
+   "titulo": "Inteligencia Artificial, Ciberseguridad, Tecnología Nuclear y Espacial como ejes de desarrollo y soberanía para una Argentina Potencia",
+   "comunidad": "Renacer Argentina",
+   "hora": "10:00 – 11:00",
+   "sala": "Auditorio 1403",
+   "imagen": "assets/web/charlas/inteligencia-artificial-ciberseguridad-ejes-de-desarrollo.jpg"
+  },
+  {
+   "slug": "la-belleza-de-lo-roto",
+   "titulo": "La belleza de lo roto",
+   "comunidad": "Florencia Tecsoro",
+   "hora": "10:00 – 12:00",
+   "sala": "Aula 1309",
+   "imagen": "assets/web/charlas/la-belleza-de-lo-roto.jpg"
+  },
+  {
+   "slug": "colonialismo-digital-dependencia-tecnologica-control-democratico",
+   "titulo": "Colonialismo digital: dependencia tecnológica y control democrático.",
+   "comunidad": "ODIA",
+   "hora": "11:00 – 11:45",
+   "sala": "Auditorio 1401",
+   "imagen": "assets/web/charlas/colonialismo-digital-dependencia-tecnologica-control-democra.jpg"
+  },
+  {
+   "slug": "quienes-construimos-el-futuro-informatico-trabajo-tecnologia-y-derechos-desde-los-feminismos-y-las-diversidades",
+   "titulo": "¿Quiénes construimos el futuro informático? Trabajo, tecnología y derechos desde los feminismos y las diversidades",
+   "comunidad": "Género y diversidades",
+   "hora": "11:00 – 12:00",
+   "sala": "Auditorio 1403",
+   "imagen": "assets/web/charlas/quienes-construimos-el-futuro-informatico-trabajo-tecnologia.jpg"
+  },
+  {
+   "slug": "molestando-al-poder-de-a-una-dataviz-por-vez",
+   "titulo": "Molestando al poder de a una dataviz por vez",
+   "comunidad": "Andres Snitcofski / Visualizar",
+   "hora": "11:30 – 12:15",
+   "sala": "Auditorio 1402",
+   "imagen": "assets/web/charlas/molestando-al-poder-de-a-una-dataviz-por-vez.jpg"
+  },
+  {
+   "slug": "hackeando-la-mente-del-atacante-tecnologias-de-engano-y-respuesta-en-tiempo-real",
+   "titulo": "Hackeando la mente del atacante: tecnologías de engaño y respuesta en tiempo real",
+   "comunidad": "GIC - Gestión e Investigación en Ciberseguridad de la UTN FRLP",
+   "hora": "11:45 – 12:30",
+   "sala": "Auditorio 1401",
+   "imagen": "assets/web/charlas/hackeando-la-mente-del-atacante-tecnologias-de-engano-y-resp.jpg"
+  },
+  {
+   "slug": "un-palantir-para-gobernarlos-a-todos",
+   "titulo": "Un Palantir para gobernarlos a todos",
+   "comunidad": "BlueSpace / Valentina Costa Gazcón",
+   "hora": "12:00 – 12:45",
+   "sala": "Auditorio 1403",
+   "imagen": "assets/web/charlas/un-palantir-para-gobernarlos-a-todos.jpg"
+  },
+  {
+   "slug": "la-guerra-security-vs-safety-y-los-riesgos-del-campo-de-la-informacion",
+   "titulo": "La guerra security vs. safety y los riesgos del campo de la información",
+   "comunidad": "Tecnocenolab",
+   "hora": "12:00 – 12:45",
+   "sala": "Aula 1309",
+   "imagen": "assets/web/charlas/la-guerra-security-vs-safety-y-los-riesgos-del-campo-de-la-i.jpg"
+  },
+  {
+   "slug": "muy-lindo-el-dashboard-y-ahora-que-hago-con-esto-del-producto-tecnologico-a-la-solucion-de-un-problema",
+   "titulo": "Muy lindo el dashboard… ¿y ahora qué hago con esto? Del producto tecnológico a la solución de un problema",
+   "comunidad": "NIS",
+   "hora": "12:15 – 12:45",
+   "sala": "Auditorio 1402",
+   "imagen": "assets/web/charlas/muy-lindo-el-dashboard-y-ahora-que-hago-con-esto-del-product.jpg"
+  },
+  {
+   "slug": "primer-empleo-en-tecnologia-lo-que-nadie-te-cuenta",
+   "titulo": "Ciberseguridad en municipios",
+   "comunidad": "La Trinchera",
+   "hora": "12:30 – 13:00",
+   "sala": "Auditorio 1401",
+   "imagen": "assets/web/charlas/primer-empleo-en-tecnologia-lo-que-nadie-te-cuenta.jpg"
+  },
+  {
+   "slug": "que-es-cybercirujascombatiendo-la-obsolescencia-programada-desde-la-autogestion",
+   "titulo": "¿Qué es Cybercirujas?Combatiendo la obsolescencia programada desde la autogestión",
+   "comunidad": "Cybercirujas",
+   "hora": "12:45 – 13:15",
+   "sala": "Aula 1309",
+   "imagen": "assets/web/charlas/que-es-cybercirujascombatiendo-la-obsolescencia-programada-d.jpg"
+  },
+  {
+   "slug": "hackear-publicar-desobedecer",
+   "titulo": "Hackear, publicar, desobedecer",
+   "comunidad": "Coti / Cyber Cirujas",
+   "hora": "13:30 – 16:30",
+   "sala": "Aula 1309",
+   "imagen": "assets/web/charlas/hackear-publicar-desobedecer.jpg"
+  }
+ ],
+ "conversatorios": [
+  {
+   "eje": 1,
+   "titulo": "Industria IT y desarrollo productivo",
+   "pregunta": "¿Qué políticas necesitamos para que la informática genere más desarrollo y mejor empleo?",
+   "hora": "14:00 – 15:00",
+   "sala": "Sala 1402",
+   "personas": [
+    {
+     "nombre": "Gabriel Baum",
+     "cargo": "Miembro del Consejo Asesor del LITAT",
+     "foto": "assets/web/personas/gabriel-baum.jpg"
+    },
+    {
+     "nombre": "Fernando Peirano",
+     "cargo": "Economista, profesor e investigador de la UNQ",
+     "foto": "assets/web/personas/fernando-peirano.jpg"
+    },
+    {
+     "nombre": "Ariel Sujarchuk",
+     "cargo": "Presidente del Consejo Provincial de la Economía del Conocimiento (COPEC)",
+     "foto": "assets/web/personas/ariel-sujarchuk.jpg"
+    },
+    {
+     "nombre": "Jorge Payró",
+     "cargo": "Gerente Nacional para Argentina y Director Senior para la región SOLA en Red Hat",
+     "foto": "assets/web/personas/jorge-payro.jpg"
+    },
+    {
+     "nombre": "Dra. Nacira Muñoz",
+     "cargo": "Especialista en políticas de CTI y desarrollo productivo. INTA y docente de la UNC",
+     "foto": "assets/web/personas/dra-nacira-munoz.jpg"
+    },
+    {
+     "nombre": "Verónica Robert",
+     "cargo": "Directora de la Maestría en Desarrollo Económico de la Escuela IDAES-UNSAM",
+     "foto": "assets/web/personas/veronica-robert.jpg"
+    }
+   ]
+  },
+  {
+   "eje": 2,
+   "titulo": "Trabajo informático en tiempos de inteligencia artificial",
+   "pregunta": "¿La inteligencia artificial viene a reemplazar trabajadores y aumentar la productividad?",
+   "hora": "15:00 – 16:00",
+   "sala": "Sala 1402",
+   "personas": [
+    {
+     "nombre": "Milagros Miceli",
+     "cargo": "Codirectora del LITAT",
+     "foto": "assets/web/personas/milagros-miceli.jpg"
+    },
+    {
+     "nombre": "Manuel Alonso",
+     "cargo": "Secretario Gremial, de Organización e Interior de AGC",
+     "foto": "assets/web/personas/manuel-alonso.jpg"
+    },
+    {
+     "nombre": "Mariano Zukerfeld",
+     "cargo": "Investigador principal del CONICET",
+     "foto": "assets/web/personas/mariano-zukerfeld.jpg"
+    },
+    {
+     "nombre": "Vanesa Núñez",
+     "cargo": "Secretaría de Innovación y Futuro del Trabajo de la CGT",
+     "foto": "assets/web/personas/vanesa-nunez.jpg"
+    },
+    {
+     "nombre": "Dra. Lilia Alonso",
+     "cargo": "Asesora del MTPBA",
+     "foto": "assets/web/personas/dra-lilia-alonso.jpg"
+    }
+   ]
+  },
+  {
+   "eje": 3,
+   "titulo": "Soberanía tecnológica y desarrollo nacional",
+   "pregunta": "¿Qué capacidades tecnológicas necesita la Argentina para decidir su propio futuro?",
+   "hora": "15:00 – 16:00",
+   "sala": "Sala 1401",
+   "personas": [
+    {
+     "nombre": "Luis Papagni",
+     "cargo": "Presidente del Consejo Asesor del LITAT",
+     "foto": "assets/web/personas/luis-papagni.jpg"
+    },
+    {
+     "nombre": "Francisco Capurro Robles",
+     "cargo": "Decano del Instituto de Tecnología y Producción de la UNDelta",
+     "foto": "assets/web/personas/francisco-capurro-robles.jpg"
+    },
+    {
+     "nombre": "Sebastián Uchitel",
+     "cargo": "Investigador superior del CONICET",
+     "foto": "assets/web/personas/sebastian-uchitel.jpg"
+    },
+    {
+     "nombre": "Ana Carina Rodríguez",
+     "cargo": "Subsecretaria de Innovación de Escobar",
+     "foto": "assets/web/personas/ana-carina-rodriguez.jpg"
+    },
+    {
+     "nombre": "Antonio Montagna",
+     "cargo": "Miembro del CIDISP",
+     "foto": "assets/web/personas/antonio-montagna.jpg"
+    },
+    {
+     "nombre": "Ramiro Escobar",
+     "cargo": "Investigador del CIDISP",
+     "foto": "assets/web/personas/ramiro-escobar.jpg"
+    }
+   ]
+  },
+  {
+   "eje": 4,
+   "titulo": "Ciberseguridad y ciberdefensa: proteger nuestras capacidades estratégicas",
+   "pregunta": "¿Cómo protegemos nuestras infraestructuras críticas con capacidades propias?",
+   "hora": "14:00 – 15:00",
+   "sala": "Sala 1401",
+   "personas": [
+    {
+     "nombre": "Oscar Niss",
+     "cargo": "Director de Seguridad Informática de la Provincia de Buenos Aires",
+     "foto": "assets/web/personas/oscar-niss.jpg"
+    },
+    {
+     "nombre": "Javier Ntaca",
+     "cargo": "Codirector del LITAT",
+     "foto": "assets/web/personas/javier-ntaca.jpg"
+    },
+    {
+     "nombre": "Marcela Pallero",
+     "cargo": "Ingeniera en Sistemas de Información por la UTN",
+     "foto": "assets/web/personas/marcela-pallero.jpg"
+    },
+    {
+     "nombre": "Olga Cavalli",
+     "cargo": "Cofundadora de la Escuela del Sur de Gobernanza de Internet",
+     "foto": "assets/web/personas/olga-cavalli.jpg"
+    }
+   ]
+  },
+  {
+   "eje": 5,
+   "titulo": "Educación y formación para el desarrollo de nuevos perfiles profesionales",
+   "pregunta": "¿Cómo trazamos carreras sostenibles en una industria que cambia todo el tiempo?",
+   "hora": "14:00 – 15:00",
+   "sala": "Sala 1403",
+   "personas": [
+    {
+     "nombre": "Claudio Aciti",
+     "cargo": "Decano de la UNICEN",
+     "foto": "assets/web/personas/claudio-aciti.jpg"
+    },
+    {
+     "nombre": "Juan Manuel Padilla",
+     "cargo": "Secretario de la Actividad de AGC",
+     "foto": "assets/web/personas/juan-manuel-padilla.jpg"
+    },
+    {
+     "nombre": "Gustavo Cucuzza",
+     "cargo": "Presidente de ADICRA",
+     "foto": "assets/web/personas/gustavo-cucuzza.jpg"
+    },
+    {
+     "nombre": "Gustavo Gándara",
+     "cargo": "Director Ejecutivo de Fundación UOCRA",
+     "foto": "assets/web/personas/gustavo-gandara.jpg"
+    },
+    {
+     "nombre": "Andrés Bursztyn",
+     "cargo": "Presidente del CPCI",
+     "foto": "assets/web/personas/andres-bursztyn.jpg"
+    },
+    {
+     "nombre": "Flavia Quiroga",
+     "cargo": "Secretaria Académica de UMET",
+     "foto": "assets/web/personas/flavia-quiroga.jpg"
+    }
+   ]
+  },
+  {
+   "eje": 6,
+   "titulo": "Datos personales: derechos, privacidad y responsabilidad",
+   "pregunta": "¿Cómo cuidamos los derechos de las personas sin frenar el desarrollo tecnológico?",
+   "hora": "15:00 – 16:00",
+   "sala": "Sala 1403",
+   "personas": [
+    {
+     "nombre": "Esteban Sargiotto",
+     "cargo": "Director del Observatorio del Trabajo Informático",
+     "foto": "assets/web/personas/esteban-sargiotto.jpg"
+    },
+    {
+     "nombre": "Pablo Gordon",
+     "cargo": "Director General de la Defensoría del Pueblo de CABA",
+     "foto": "assets/web/personas/pablo-gordon.jpg"
+    },
+    {
+     "nombre": "Tomás Pomar",
+     "cargo": "Presidente de O.D.I.A.",
+     "foto": "assets/web/personas/tomas-pomar.jpg"
+    },
+    {
+     "nombre": "Ivana Feldfeber",
+     "cargo": "Directora y cofundadora de DataGénero",
+     "foto": "assets/web/personas/ivana-feldfeber.jpg"
+    },
+    {
+     "nombre": "Margarita Trovato",
+     "cargo": "Abogada de Vía Libre y especialista en derechos humanos",
+     "foto": "assets/web/personas/margarita-trovato.jpg"
+    }
+   ]
+  }
+ ],
+ "comunidades": [
+  {
+   "nombre": "R en Buenos Aires",
+   "logo": "assets/web/logos/r-buenos-aires.webp"
+  },
+  {
+   "nombre": "R-Ladies",
+   "logo": "assets/web/logos/r-ladies.webp"
+  },
+  {
+   "nombre": "Bluespace",
+   "logo": "assets/web/logos/bluespace-logo.webp"
+  },
+  {
+   "nombre": "Cyber Cirujas",
+   "logo": "assets/web/logos/cybercirujas.webp"
+  },
+  {
+   "nombre": "Women in Games Argentina (WIGAr)",
+   "logo": "assets/web/logos/wigar.svg"
+  },
+  {
+   "nombre": "BAISH",
+   "logo": ""
+  },
+  {
+   "nombre": "InfoWorkers",
+   "logo": "assets/web/logos/infoworkers.webp"
+  },
+  {
+   "nombre": "Fundación Vía Libre",
+   "logo": "assets/web/logos/via-libre.svg"
+  },
+  {
+   "nombre": "ODIA",
+   "logo": "assets/web/logos/odia.svg"
+  },
+  {
+   "nombre": "DataGénero",
+   "logo": "assets/web/logos/data-genero.svg"
+  },
+  {
+   "nombre": "Géneras",
+   "logo": "assets/web/logos/generas.svg"
+  },
+  {
+   "nombre": "Fundación Sociedades Digitales",
+   "logo": "assets/web/logos/sociedades-digitales.webp"
+  },
+  {
+   "nombre": "Renacer",
+   "logo": "assets/web/logos/renacer.webp"
+  },
+  {
+   "nombre": "Núcleo de Innovación Social (NIS)",
+   "logo": "assets/web/logos/nis.svg"
+  },
+  {
+   "nombre": "Laboratorio Abierto de IA (LAIA)",
+   "logo": "assets/web/logos/laia.svg"
+  },
+  {
+   "nombre": "Zona 4",
+   "logo": "assets/web/logos/zona-4.svg"
+  },
+  {
+   "nombre": "LITAT",
+   "logo": "assets/web/logos/litat.svg"
+  },
+  {
+   "nombre": "OTI",
+   "logo": "assets/web/logos/oti.svg"
+  },
+  {
+   "nombre": "FACTTIC",
+   "logo": "assets/web/logos/facttic.svg"
+  },
+  {
+   "nombre": "Consejo Profesional en Ciencias Informáticas",
+   "logo": "assets/web/logos/cpci.svg"
+  },
+  {
+   "nombre": "RedTI",
+   "logo": "assets/web/logos/redti.svg"
+  },
+  {
+   "nombre": "Trabajadores Informáticos (TI)",
+   "logo": "assets/web/logos/comunidad-ti.svg"
+  },
+  {
+   "nombre": "IDEP Informática",
+   "logo": "assets/web/logos/idep.webp"
+  },
+  {
+   "nombre": "ADICRA",
+   "logo": "assets/web/logos/adicra.webp"
+  },
+  {
+   "nombre": "CEFCE",
+   "logo": ""
+  },
+  {
+   "nombre": "CE ECyT · UNSAM",
+   "logo": ""
+  },
+  {
+   "nombre": "CE FAMAF",
+   "logo": ""
+  },
+  {
+   "nombre": "La Fuente",
+   "logo": ""
+  },
+  {
+   "nombre": "GIC · UTN FRLP",
+   "logo": "assets/web/logos/gic-utn-frlp.webp"
+  }
+ ]
+}
