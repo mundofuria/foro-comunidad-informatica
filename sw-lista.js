@@ -1,5 +1,5 @@
 // Generado por _fuente/lista.py
-self.VERSION = 'f432a36d117f';
+self.VERSION = '0633c00fe12b';
 self.LISTA = [
  "Placas%20LED%20FoCo%20v3.dc.html",
  "assets/comunidades/adicra.png",
@@ -76,6 +76,7 @@ self.LISTA = [
  "assets/web/personas/andres-bursztyn.jpg",
  "assets/web/personas/antonio-montagna.jpg",
  "assets/web/personas/ariel-sujarchuk.jpg",
+ "assets/web/personas/camila-chirino.jpg",
  "assets/web/personas/claudio-aciti.jpg",
  "assets/web/personas/dra-lilia-alonso.jpg",
  "assets/web/personas/dra-nacira-munoz.jpg",
@@ -85,7 +86,6 @@ self.LISTA = [
  "assets/web/personas/francisco-capurro-robles.jpg",
  "assets/web/personas/gabriel-baum.jpg",
  "assets/web/personas/gustavo-cucuzza.jpg",
- "assets/web/personas/gustavo-gandara.jpg",
  "assets/web/personas/ivana-feldfeber.jpg",
  "assets/web/personas/javier-ntaca.jpg",
  "assets/web/personas/jorge-payro.jpg",
