@@ -116,7 +116,7 @@ aside > * { flex:none; }
 		var g = $('grilla');
 		g.textContent = '';
 		// Con pocas placas en la lista, las miniaturas se ven grandes.
-		g.classList.toggle('grandes', visibles.length <= 12);
+		g.classList.toggle('grandes', momento === 'logos' || visibles.length <= 12);
 		visibles.forEach(function (p) {
 			var b = document.createElement('button');
 			b.type = 'button'; b.className = 'placa'; b.dataset.i = p.i; b.title = p.nombre;

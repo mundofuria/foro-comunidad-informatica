@@ -1,5 +1,5 @@
 // Generado por _fuente/lista.py
-self.VERSION = '80f84b05f61b';
+self.VERSION = '47213bfd9aa6';
 self.LISTA = [
  "Placas%20LED%20FoCo%20v3.dc.html",
  "assets/comunidades/adicra.png",
@@ -229,6 +229,11 @@ self.LISTA = [
  "panel/mini/105.jpg",
  "panel/mini/106.jpg",
  "panel/mini/107.jpg",
+ "panel/mini/108.jpg",
+ "panel/mini/109.jpg",
+ "panel/mini/110.jpg",
+ "panel/mini/111.jpg",
+ "panel/mini/112.jpg",
  "panel/placas.json",
  "salida.js",
  "support.js",
