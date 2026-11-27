@@ -19,7 +19,7 @@
   {
    "slug": "inteligencia-artificial-ciberseguridad-ejes-de-desarrollo",
    "titulo": "Inteligencia Artificial, Ciberseguridad, Tecnología Nuclear y Espacial como ejes de desarrollo y soberanía para una Argentina Potencia",
-   "comunidad": "Renacer Argentina",
+   "comunidad": "Renacer",
    "hora": "10:00 – 11:00",
    "sala": "Auditorio 1403",
    "imagen": "assets/web/charlas/inteligencia-artificial-ciberseguridad-ejes-de-desarrollo.jpg"
@@ -31,6 +31,14 @@
    "hora": "10:00 – 12:00",
    "sala": "Aula 1309",
    "imagen": "assets/web/charlas/la-belleza-de-lo-roto.jpg"
+  },
+  {
+   "slug": "talleres-asociacion-de-docentes-de-informatica-y-computacion-de-la-republica-argentina",
+   "titulo": "Foro 2026 de la Asociación de Docentes de Informática y Computación de la República Argentina",
+   "comunidad": "ADICRA – Asociación de Docentes de Informática y Computación de la República Argentina",
+   "hora": "10:00 – 16:00",
+   "sala": "Aulas 1107, 1106 y 1101",
+   "imagen": "assets/web/charlas/talleres-asociacion-de-docentes-de-informatica-y-computacion.jpg"
   },
   {
    "slug": "colonialismo-digital-dependencia-tecnologica-control-democratico",
@@ -51,7 +59,7 @@
   {
    "slug": "molestando-al-poder-de-a-una-dataviz-por-vez",
    "titulo": "Molestando al poder de a una dataviz por vez",
-   "comunidad": "Andres Snitcofski / Visualizar",
+   "comunidad": "Andres Snitcofsky / Visualizar",
    "hora": "11:30 – 12:15",
    "sala": "Auditorio 1402",
    "imagen": "assets/web/charlas/molestando-al-poder-de-a-una-dataviz-por-vez.jpg"
@@ -73,6 +81,14 @@
    "imagen": "assets/web/charlas/un-palantir-para-gobernarlos-a-todos.jpg"
   },
   {
+   "slug": "los-nap-de-informatica-una-definicion-impostergable-para-la-educacion-argentina",
+   "titulo": "Los NAP de Informática: una definición impostergable para la educación argentina",
+   "comunidad": "ADICRA - Gustavo CUCUZZA",
+   "hora": "12:00",
+   "sala": "Aula 1101",
+   "imagen": "assets/web/charlas/los-nap-de-informatica-una-definicion-impostergable-para-la-.jpg"
+  },
+  {
    "slug": "la-guerra-security-vs-safety-y-los-riesgos-del-campo-de-la-informacion",
    "titulo": "La guerra security vs. safety y los riesgos del campo de la información",
    "comunidad": "Tecnocenolab",
@@ -89,17 +105,17 @@
    "imagen": "assets/web/charlas/muy-lindo-el-dashboard-y-ahora-que-hago-con-esto-del-product.jpg"
   },
   {
-   "slug": "primer-empleo-en-tecnologia-lo-que-nadie-te-cuenta",
+   "slug": "ciberseguridad-en-municipios",
    "titulo": "Ciberseguridad en municipios",
    "comunidad": "La Trinchera",
    "hora": "12:30 – 13:00",
    "sala": "Auditorio 1401",
-   "imagen": "assets/web/charlas/primer-empleo-en-tecnologia-lo-que-nadie-te-cuenta.jpg"
+   "imagen": "assets/web/charlas/ciberseguridad-en-municipios.jpg"
   },
   {
    "slug": "que-es-cybercirujascombatiendo-la-obsolescencia-programada-desde-la-autogestion",
    "titulo": "¿Qué es Cybercirujas?Combatiendo la obsolescencia programada desde la autogestión",
-   "comunidad": "Cybercirujas",
+   "comunidad": "Cyber Cirujas",
    "hora": "12:45 – 13:15",
    "sala": "Aula 1309",
    "imagen": "assets/web/charlas/que-es-cybercirujascombatiendo-la-obsolescencia-programada-d.jpg"
@@ -325,6 +341,11 @@
      "nombre": "Margarita Trovato",
      "cargo": "Abogada de Vía Libre y especialista en derechos humanos",
      "foto": "assets/web/personas/margarita-trovato.jpg"
+    },
+    {
+     "nombre": "Pablo Bonada",
+     "cargo": "Gerente General de Encode S.A",
+     "foto": "assets/web/personas/pablo-bonada.jpg"
     }
    ]
   }

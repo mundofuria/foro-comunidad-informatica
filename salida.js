@@ -41,6 +41,7 @@
 			var m = e.data || {};
 			if (m.t === 'ir') { apagado = false; negro.style.opacity = 0; deck.goTo(m.i); }
 			if (m.t === 'negro') { apagado = !!m.on; negro.style.opacity = apagado ? 1 : 0; }
+			if (m.t === 'historias') window.dispatchEvent(new Event('foco-historias'));
 			setTimeout(informar, 0);
 		};
 		informar();

@@ -23,6 +23,7 @@ header h1 { margin:0; font-size:17px; font-weight:900; }
 .conectada .punto { background:var(--ok); }
 #guardado { color:var(--suave); }
 header .derecha { margin-left:auto; display:flex; gap:10px; align-items:center; }
+#quitar-historias[hidden] { display:none; }
 #abrir { background:var(--texto); color:var(--hondo); }
 main { display:grid; grid-template-columns:minmax(0,1fr) minmax(320px,34%); min-height:0; }
 .catalogo { display:grid; grid-template-rows:auto 1fr; min-height:0; }
@@ -66,7 +67,12 @@ aside > * { flex:none; }
 	<h1>Panel de pantalla</h1>
 	<div class="estado" id="estado"><i class="punto"></i><span>Pantalla sin abrir</span></div>
 	<span id="guardado"></span>
-	<div class="derecha"><button id="abrir" type="button">Abrir pantalla</button></div>
+	<div class="derecha">
+		<button id="historias" type="button" title="Fotos y videos para la placa Historias de Instagram">Cargar historias</button>
+		<button id="quitar-historias" type="button" hidden>Quitar</button>
+		<input id="archivos" type="file" accept="image/*,video/*" multiple hidden>
+		<button id="abrir" type="button">Abrir pantalla</button>
+	</div>
 </header>
 <main>
 	<section class="catalogo">
@@ -88,7 +94,7 @@ aside > * { flex:none; }
 </main>
 <script>
 (function () {
-	var NOMBRES = { todas: 'Todas', apertura: 'Apertura', agenda: 'Agenda', avisos: 'Avisos', charlas: 'Charlas', conversatorios: 'Conversatorios', comunidades: 'Comunidades', institucional: 'Institucional', cierre: 'Cierre' };
+	var NOMBRES = { todas: 'Todas', apertura: 'Apertura', agenda: 'Agenda', avisos: 'Avisos', charlas: 'Charlas', conversatorios: 'Conversatorios', comunidades: 'Comunidades', institucional: 'Institucional', textuales: 'Textuales', cierre: 'Cierre' };
 	var $ = function (id) { return document.getElementById(id); };
 	var placas = [], visibles = [], momento = 'todas', previa = 0, aire = null, negro = false;
 	var ventana = null, visto = 0, enviadoEn = 0, loopLista = null, loopTimer = null, totalSalida = null;
@@ -269,6 +275,39 @@ aside > * { flex:none; }
 		});
 		filtrar(); pintar();
 	}).catch(function () { $('alerta').textContent = 'No se pudo cargar la lista de placas. Recargá la página.'; });
+
+	// Historias de Instagram: se guardan en este navegador y las lee la ventana de salida.
+	function guardadas(modo, hacer) {
+		return new Promise(function (ok, mal) {
+			var pedido = indexedDB.open('foco-historias', 1);
+			pedido.onupgradeneeded = function () { pedido.result.createObjectStore('archivos', { autoIncrement: true }); };
+			pedido.onerror = function () { mal(pedido.error); };
+			pedido.onsuccess = function () {
+				var db = pedido.result, t = db.transaction('archivos', modo), r = hacer(t.objectStore('archivos'));
+				t.oncomplete = function () { db.close(); ok(r && r.result); };
+				t.onerror = t.onabort = function () { db.close(); mal(t.error); };
+			};
+		});
+	}
+	function contarHistorias() {
+		return guardadas('readonly', function (s) { return s.count(); }).then(function (n) {
+			$('historias').textContent = n ? 'Historias: ' + n + ' · cambiar' : 'Cargar historias';
+			$('quitar-historias').hidden = !n;
+		});
+	}
+	function cambiarHistorias(lista) {
+		return guardadas('readwrite', function (s) { s.clear(); lista.forEach(function (f) { s.add(f); }); })
+			.then(function () { if (canal) canal.postMessage({ t: 'historias' }); return contarHistorias(); })
+			.catch(function () { $('alerta').textContent = 'No se pudieron guardar las historias (¿archivos muy pesados?).'; });
+	}
+	$('historias').onclick = function () { $('archivos').click(); };
+	$('quitar-historias').onclick = function () { cambiarHistorias([]); };
+	$('archivos').onchange = function () {
+		var lista = Array.prototype.slice.call(this.files);
+		this.value = ''; this.blur();
+		if (lista.length) cambiarHistorias(lista);
+	};
+	contarHistorias().catch(function () { $('historias').disabled = true; });
 
 	if (!canal) $('alerta').textContent = 'Este navegador no sirve para el panel: usá Chrome o Edge.';
 	// Los botones no retienen el foco: así Enter siempre envía.

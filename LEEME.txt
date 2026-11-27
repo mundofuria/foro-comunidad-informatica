@@ -26,6 +26,17 @@ OPERAR
   "Repetir esta lista": rota las placas de la pestana elegida.
   Mantener el panel visible mientras se repite una lista.
 
+HISTORIAS DE INSTAGRAM
+  Instagram no permite mostrarlas solas en otra pagina: se cargan a mano.
+  1. En el celular, abrir cada historia propia > "..." > Guardar.
+     (Para historias de otras cuentas, hacer captura de pantalla.)
+  2. Pasar las fotos y videos a la computadora.
+  3. En el panel: "Cargar historias" y elegir todos los archivos juntos.
+  4. Enviar la placa "Historias de Instagram". Se van turnando solas.
+  Una carga nueva reemplaza a la anterior. Videos sin sonido. Quedan guardadas
+  en esa computadora y navegador (la version web y la local no las comparten).
+  Funciona sin internet.
+
 SIN INTERNET
   Todo funciona menos las placas de video (YouTube) y la de Instagram.
   Para que la version web funcione sin conexion hay que haberla abierto antes
