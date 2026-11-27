@@ -5,9 +5,27 @@ importScripts('sw-lista.js');
 const CACHE = 'foco-' + self.VERSION;
 const url = (ruta) => new URL(ruta, self.registration.scope).href;
 
+// El servidor a veces responde con un error pasajero: se reintenta cada archivo
+// en vez de cancelar todo el guardado por uno solo.
+async function guardar(c, ruta) {
+	for (let intento = 1; ; intento++) {
+		try {
+			const r = await fetch(new Request(url(ruta), { cache: 'reload' }));
+			if (!r.ok) throw new Error(ruta + ' ' + r.status);
+			return await c.put(url(ruta), r);
+		} catch (error) {
+			if (intento >= 6) throw error;
+			await new Promise((ok) => setTimeout(ok, intento * 1500));
+		}
+	}
+}
+
 self.addEventListener('install', (e) => {
 	e.waitUntil(caches.open(CACHE).then(async (c) => {
-		await c.addAll(self.LISTA.map((r) => new Request(url(r), { cache: 'reload' })));
+		// De a seis, para no saturar la red ni el servidor.
+		for (let i = 0; i < self.LISTA.length; i += 6) {
+			await Promise.all(self.LISTA.slice(i, i + 6).map((r) => guardar(c, r)));
+		}
 		await c.put(url('sw-completo'), new Response('ok'));
 		await self.skipWaiting();
 	}));
