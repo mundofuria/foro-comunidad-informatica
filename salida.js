@@ -6,6 +6,7 @@
 
 	var canal = new BroadcastChannel('foco-pantalla');
 	var deck, negro, aviso, apagado = false, actual = 0;
+	var externo = window.FocoExterno || null;
 
 	function placas() { return Array.prototype.filter.call(deck.children, function (s) { return s.tagName === 'SECTION'; }); }
 
@@ -13,7 +14,7 @@
 		var todas = placas();
 		var i = todas.findIndex(function (s) { return s.hasAttribute('data-deck-active'); });
 		if (i >= 0) actual = i;
-		canal.postMessage({ t: 'estado', i: actual, total: todas.length, nombre: todas[actual] && todas[actual].getAttribute('data-label'), negro: apagado, completa: !!document.fullscreenElement });
+		canal.postMessage({ t: 'estado', i: actual, total: todas.length, nombre: todas[actual] && todas[actual].getAttribute('data-label'), negro: apagado, completa: !!document.fullscreenElement, externo: externo ? externo.estado() : null });
 	}
 
 	// Obliga al navegador a dibujar de nuevo la placa activa y repite sus entradas.
@@ -25,6 +26,7 @@
 			activa.style.display = '';
 			window.dispatchEvent(new Event('foco-refrescar'));
 		}, 80);
+		if (externo) externo.repintar();
 	}
 
 	function preparar() {
@@ -50,12 +52,17 @@
 		document.addEventListener('slidechange', function () { setTimeout(informar, 0); });
 		canal.onmessage = function (e) {
 			var m = e.data || {};
-			if (m.t === 'ir') { apagado = false; negro.style.opacity = 0; deck.goTo(m.i); }
-			if (m.t === 'negro') { apagado = !!m.on; negro.style.opacity = apagado ? 1 : 0; }
+			if (m.t === 'ir') { apagado = false; negro.style.opacity = 0; if (externo) { externo.ocultar(); externo.negro(false); } deck.goTo(m.i); }
+			if (m.t === 'negro') { apagado = !!m.on; negro.style.opacity = apagado ? 1 : 0; if (externo) externo.negro(apagado); }
+			// Material externo (fotos, videos, PDF, YouTube): va en una capa por encima de las placas.
+			if (m.t === 'ext' && externo) { apagado = false; negro.style.opacity = 0; externo.negro(false); externo.mostrar(m); return; }
+			if (m.t === 'ext-orden' && externo) externo.orden(m);
+			if (m.t === 'ext-fin' && externo) externo.ocultar();
 			if (m.t === 'historias') window.dispatchEvent(new Event('foco-historias'));
 			if (m.t === 'refrescar') refrescar();
 			setTimeout(informar, 0);
 		};
+		if (externo) externo.alCambiar(informar);
 		informar();
 	}
 

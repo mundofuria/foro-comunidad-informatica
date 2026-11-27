@@ -1,5 +1,5 @@
 // Generado por _fuente/lista.py
-self.VERSION = '47213bfd9aa6';
+self.VERSION = 'f432a36d117f';
 self.LISTA = [
  "Placas%20LED%20FoCo%20v3.dc.html",
  "assets/comunidades/adicra.png",
@@ -120,7 +120,10 @@ self.LISTA = [
  "assets/web/video/ZizE9mNwfLI.jpg",
  "assets/web/video/oUBtJvbbAso.jpg",
  "deck-stage.js",
+ "externo-comun.js",
+ "externo.js",
  "index.html",
+ "panel-externo.js",
  "panel.html",
  "panel/mini/001.jpg",
  "panel/mini/002.jpg",
@@ -242,6 +245,25 @@ self.LISTA = [
  "vendor/fonts/f3.woff2",
  "vendor/fonts/f4.woff2",
  "vendor/fonts/fonts.css",
+ "vendor/pdfjs/LICENSE",
+ "vendor/pdfjs/pdf.min.js",
+ "vendor/pdfjs/pdf.worker.min.js",
+ "vendor/pdfjs/standard_fonts/FoxitDingbats.pfb",
+ "vendor/pdfjs/standard_fonts/FoxitFixed.pfb",
+ "vendor/pdfjs/standard_fonts/FoxitFixedBold.pfb",
+ "vendor/pdfjs/standard_fonts/FoxitFixedBoldItalic.pfb",
+ "vendor/pdfjs/standard_fonts/FoxitFixedItalic.pfb",
+ "vendor/pdfjs/standard_fonts/FoxitSerif.pfb",
+ "vendor/pdfjs/standard_fonts/FoxitSerifBold.pfb",
+ "vendor/pdfjs/standard_fonts/FoxitSerifBoldItalic.pfb",
+ "vendor/pdfjs/standard_fonts/FoxitSerifItalic.pfb",
+ "vendor/pdfjs/standard_fonts/FoxitSymbol.pfb",
+ "vendor/pdfjs/standard_fonts/LICENSE_FOXIT",
+ "vendor/pdfjs/standard_fonts/LICENSE_LIBERATION",
+ "vendor/pdfjs/standard_fonts/LiberationSans-Bold.ttf",
+ "vendor/pdfjs/standard_fonts/LiberationSans-BoldItalic.ttf",
+ "vendor/pdfjs/standard_fonts/LiberationSans-Italic.ttf",
+ "vendor/pdfjs/standard_fonts/LiberationSans-Regular.ttf",
  "vendor/react-dom.js",
  "vendor/react.js"
 ];

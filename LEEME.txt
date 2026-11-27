@@ -46,6 +46,21 @@ HISTORIAS DE INSTAGRAM
   en esa computadora y navegador (la version web y la local no las comparten).
   Funciona sin internet.
 
+MATERIAL EXTERNO (pestana "Externo")
+  Para fotos, videos, PDF o enlaces de YouTube que traigan en el momento.
+  1. "Cargar archivos", o pegar el enlace de YouTube y "Agregar enlace".
+  2. Un clic prepara; Enter o doble clic lo envia a la pantalla.
+  Videos: pausar (barra espaciadora), reiniciar, repetir y sonido (apagado si
+  no se activa). Para el sonido: conectar la computadora al equipo de audio y
+  haber hecho clic una vez en la ventana de la pantalla.
+  PDF: las flechas pasan las paginas.
+  "Imagen: entera / llena la pantalla": entera deja franjas; llena recorta.
+  Fotos: "Rotar fotos" las va cambiando solas.
+  Para volver: "Volver a las placas" o enviar cualquier placa.
+  PowerPoint no se puede abrir: exportarlo a PDF (se pierden las animaciones).
+  Videos en MP4. YouTube necesita internet; el resto no.
+  Lo cargado queda en esa computadora y navegador hasta quitarlo con la X.
+
 SIN INTERNET
   Todo funciona menos las placas de video (YouTube) y la de Instagram.
   Para que la version web funcione sin conexion hay que haberla abierto antes
