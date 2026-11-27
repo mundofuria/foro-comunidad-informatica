@@ -1,5 +1,5 @@
 // Generado por _fuente/lista.py
-self.VERSION = 'ead69e44f28d';
+self.VERSION = '80f84b05f61b';
 self.LISTA = [
  "Placas%20LED%20FoCo%20v3.dc.html",
  "assets/comunidades/adicra.png",

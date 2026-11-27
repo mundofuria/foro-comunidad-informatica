@@ -16,6 +16,17 @@
 		canal.postMessage({ t: 'estado', i: actual, total: todas.length, nombre: todas[actual] && todas[actual].getAttribute('data-label'), negro: apagado, completa: !!document.fullscreenElement });
 	}
 
+	// Obliga al navegador a dibujar de nuevo la placa activa y repite sus entradas.
+	function refrescar() {
+		var activa = deck.querySelector('section[data-deck-active]');
+		if (!activa) return;
+		activa.style.display = 'none';
+		setTimeout(function () {
+			activa.style.display = '';
+			window.dispatchEvent(new Event('foco-refrescar'));
+		}, 80);
+	}
+
 	function preparar() {
 		deck.setAttribute('no-rail', '');
 		if (deck.shadowRoot) {
@@ -42,6 +53,7 @@
 			if (m.t === 'ir') { apagado = false; negro.style.opacity = 0; deck.goTo(m.i); }
 			if (m.t === 'negro') { apagado = !!m.on; negro.style.opacity = apagado ? 1 : 0; }
 			if (m.t === 'historias') window.dispatchEvent(new Event('foco-historias'));
+			if (m.t === 'refrescar') refrescar();
 			setTimeout(informar, 0);
 		};
 		informar();

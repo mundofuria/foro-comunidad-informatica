@@ -5,6 +5,13 @@ ANTES DE EMPEZAR
   (tecla Windows + P > Extender). No usar "Duplicar".
 - Usar Google Chrome o Microsoft Edge.
 
+EN OTRA COMPUTADORA (PENDRIVE)
+  Necesita Windows 10 u 11 con Google Chrome o Microsoft Edge.
+  1. Copiar el ZIP del pendrive al Escritorio.
+  2. Clic derecho en el ZIP > "Extraer todo". No abrir el panel desde adentro del ZIP.
+  3. En la carpeta extraida, doble clic en "INICIAR PANEL.bat".
+  4. Seguir con "PONER LA PANTALLA".
+
 ABRIR EL PANEL
   Con internet:  https://mundofuria.github.io/foro-comunidad-informatica/panel.html
   Sin internet:  doble clic en "INICIAR PANEL.bat" (esta carpeta) y no cerrar
@@ -23,6 +30,8 @@ OPERAR
   Doble clic: la envia directo.
   Flechas: cambiar la placa preparada.
   B: pantalla negra.   M: placa de marca.
+  R (o "Recargar"): vuelve a dibujar la placa que esta al aire si se ve
+  incompleta. No sale de pantalla completa (F5 si sale).
   "Repetir esta lista": rota las placas de la pestana elegida.
   Mantener el panel visible mientras se repite una lista.
 

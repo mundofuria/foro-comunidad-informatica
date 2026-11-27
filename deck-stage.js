@@ -703,10 +703,10 @@
     }
 
     connectedCallback() {
-      // Presenter-view popup loads deckUrl?_snthumb=...#N for its prev/cur/
-      // next thumbnails — the rail has no business rendering inside those
-      // (wrong scale, and it offsets the stage so the thumb shows a gutter).
-      if (/[?&]_snthumb=/.test(location.search)) this.setAttribute('no-rail', '');
+      // FoCo: nunca se arma la barra de miniaturas. Aunque estuviera oculta,
+      // duplicaba todas las placas en memoria y Chrome dejaba de dibujar
+      // partes de la placa activa despues de varios cambios.
+      this.setAttribute('no-rail', '');
       this._render();
       this._loadNotes();
       this._syncPrintPageRule();
